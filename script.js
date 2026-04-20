@@ -3,5 +3,7 @@
 // console.log(h1);
 // document.body.appendChild(h1)
 
+import a from "./app.js"
+console.log(a);
 
 
